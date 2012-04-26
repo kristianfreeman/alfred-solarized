@@ -11,6 +11,10 @@ Let's take two of my favorite things - [Solarized](http://ethanschoonover.com/so
 
 ---
 
-Solarized Dark: ![Solarized Dark](http://f.cl.ly/items/1c2r0a391w1e1N0s2F08/Screen%20Shot%202012-04-26%20at%2010.44.10%20AM.png)
+Solarized Dark: 
 
-Solarized Light: ![Solarized Light](http://f.cl.ly/items/312g3D3b03273W2o2T0w/Screen%20Shot%202012-04-26%20at%2010.46.41%20AM.png)
+![Solarized Dark](http://f.cl.ly/items/1c2r0a391w1e1N0s2F08/Screen%20Shot%202012-04-26%20at%2010.44.10%20AM.png)
+
+Solarized Light: 
+
+![Solarized Light](http://f.cl.ly/items/312g3D3b03273W2o2T0w/Screen%20Shot%202012-04-26%20at%2010.46.41%20AM.png)
