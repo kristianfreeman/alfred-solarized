@@ -9,6 +9,12 @@ Let's take two of my favorite things - [Solarized](http://ethanschoonover.com/so
 
 (Colors are based on guidelines established by [Mr. Schoonover](http://ethanschoonover.com/solarized#the-values).)
 
+Install them with a couple easy manuevers:
+
+    git clone git@github.com:imkmf/alfred-solarized.git
+    
+Then open it. There's not much room to mess this one up folks - I don't know a ton of other applications that use `.alfredtheme` as an extension.
+
 ---
 
 Solarized Dark: 
